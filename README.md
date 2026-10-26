@@ -1,7 +1,5 @@
 # CST2335_Lab4a
 
-**Student Name:** Rayyan Haque  
-**Student ID:** 041256359  
 **Course:** CST2335 - Mobile Graphical Interface Programming  
 **Branch:** lab_4  
 
